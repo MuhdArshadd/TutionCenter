@@ -1,0 +1,17 @@
+﻿  Enrollment.cpp
+  Payment.cpp
+  StudAccount.cpp
+  Admin.cpp
+  DBConnection.cpp
+  main.cpp
+C:\Users\Acer\Desktop\COURSE PROJECT\WORKSHOP I\WORKSHOP I\SOURCE CODE\main.cpp(1262,29): warning C4101: 'back': unreferenced local variable
+C:\Users\Acer\Desktop\COURSE PROJECT\WORKSHOP I\WORKSHOP I\SOURCE CODE\main.cpp(1678,29): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  menu.cpp
+  Subject.cpp
+  TutorAccount.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\Acer\Desktop\COURSE PROJECT\WORKSHOP I\WORKSHOP I\SOURCE CODE\TutorAccount.cpp(134): warning C4715: 'TutorAccount::setAge': not all control paths return a value
+  All 1358 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  TestProject.vcxproj -> C:\Users\Acer\Desktop\COURSE PROJECT\WORKSHOP I\WORKSHOP I\SOURCE CODE\x64\Release\TestProject.exe

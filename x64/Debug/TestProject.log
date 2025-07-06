@@ -1,0 +1,18 @@
+﻿  Enrollment.cpp
+C:\Users\Acer\Desktop\COURSE PROJECT\WORKSHOP I\WORKSHOP I\SOURCE CODE\DBConnection.h(4,10): fatal  error C1083: Cannot open include file: 'mysql/jdbc.h': No such file or directory
+  Payment.cpp
+C:\Users\Acer\Desktop\COURSE PROJECT\WORKSHOP I\WORKSHOP I\SOURCE CODE\DBConnection.h(4,10): fatal  error C1083: Cannot open include file: 'mysql/jdbc.h': No such file or directory
+  StudAccount.cpp
+C:\Users\Acer\Desktop\COURSE PROJECT\WORKSHOP I\WORKSHOP I\SOURCE CODE\DBConnection.h(4,10): fatal  error C1083: Cannot open include file: 'mysql/jdbc.h': No such file or directory
+  Admin.cpp
+C:\Users\Acer\Desktop\COURSE PROJECT\WORKSHOP I\WORKSHOP I\SOURCE CODE\DBConnection.h(4,10): fatal  error C1083: Cannot open include file: 'mysql/jdbc.h': No such file or directory
+  DBConnection.cpp
+C:\Users\Acer\Desktop\COURSE PROJECT\WORKSHOP I\WORKSHOP I\SOURCE CODE\DBConnection.h(4,10): fatal  error C1083: Cannot open include file: 'mysql/jdbc.h': No such file or directory
+  main.cpp
+C:\Users\Acer\Desktop\COURSE PROJECT\WORKSHOP I\WORKSHOP I\SOURCE CODE\main.cpp(8,10): fatal  error C1083: Cannot open include file: 'mysql/jdbc.h': No such file or directory
+  menu.cpp
+  Subject.cpp
+C:\Users\Acer\Desktop\COURSE PROJECT\WORKSHOP I\WORKSHOP I\SOURCE CODE\DBConnection.h(4,10): fatal  error C1083: Cannot open include file: 'mysql/jdbc.h': No such file or directory
+  TutorAccount.cpp
+C:\Users\Acer\Desktop\COURSE PROJECT\WORKSHOP I\WORKSHOP I\SOURCE CODE\DBConnection.h(4,10): fatal  error C1083: Cannot open include file: 'mysql/jdbc.h': No such file or directory
+  Generating Code...
